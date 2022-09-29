@@ -1,5 +1,5 @@
 
- var socket = new WebSocket('ws://192.168.1.120:1337/');
+ var socket = new WebSocket('ws://rttchyd.github.io/SDPCall:1337/');
   var sourcevid = document.getElementById('liveVideo');
   var remotevid = document.getElementById('remotevideo');
   var localStream = null;
